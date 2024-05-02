@@ -1,7 +1,7 @@
 # yuli5135_week8quiz
-part 1
+## part 1
 
-circle overlapping art
+- circle overlapping art
 
 Overlapping art can rotate different shapes around a center many times to create multi-point symmetry, as is the case with the large number of repeating points in Pacita Abad's 'Wheels of fortune'. The idea that the circle is evenly divided into many parts, each of which has the same content, is very helpful for design.
 
@@ -12,7 +12,7 @@ picture
 
 
 
-part 2
+## part 2
 
 code link
 https://www.101computing.net/moroccan-mosaic/
